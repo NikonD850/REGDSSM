@@ -2,8 +2,8 @@
 
 [News] You may also want to check our related works:
 
-- **Event Deblur Pro (2026.03)** [Code](https://github.com/NikonD850/NTIRE26_event_deblur) 🏆 3rd Place of 2nd Event-based Image Deblurring Challenge
-- **TRM-UNet (2026.01)** [Code](https://github.com/NikonD850/TRM-UNet)
+- **Event Deblur Pro (2026.03)** [Code](https://github.com/NikonD850/NTIRE26_event_deblur) 🏆 3rd Place of [2nd Event-based Image Deblurring Challenge (NTIRE@CVPR'26)](https://www.codabench.org/competitions/12918)
+- **TRM-UNet (2026.01)** [Code](https://github.com/NikonD850/TRM-UNet) ICASSP'26 (CCF-B)
 
 TL;DR: New state-of-the-art performance on the GoPro dataset.
 
@@ -65,3 +65,4 @@ Thanks to the inspirations and codes from [AHDINet](https://github.com/wyang-vis
   number={},
   pages={1-6},
   }
+```
